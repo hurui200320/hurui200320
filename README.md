@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**hurui200320/hurui200320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hu Rui, a Java developer and a college student. Nice to meet you :)
 
-Here are some ideas to get you started:
+Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ritmin Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoHitDev&repo=Ritmin&show_owner=true)](https://github.com/NekoHitDev/Ritmin)
+
+GitHub status:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hurui200320&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurui200320&hide=VHDL,coq,stata,HTML)
+
+*Note: Most used not means most skillful.*
+
