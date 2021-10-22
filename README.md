@@ -4,7 +4,7 @@ I'm Hu Rui, a Java developer and a college student. Nice to meet you :)
 
 Currently working on:
 
-[![Ritmin Card](https://github-readme-stats.vercel.app/api/pin/?username=NekoHitDev&repo=Ritmin&show_owner=true)](https://github.com/NekoHitDev/Ritmin)
+[![ArchiveDAG Card](https://github-readme-stats.vercel.app/api/pin/?username=hurui200320&repo=ArchiveDAG&show_owner=true)](https://github.com/hurui200320/ArchiveDAG)
 
 GitHub status:
 
