@@ -14,3 +14,4 @@ GitHub status:
 
 *Note: Most used not means most skillful.*
 
+(About archived repo in my namespace) Those repos will not receive active maintenance and I will not keep working on that repo. To reduce confusion, I'll archive those repo.
