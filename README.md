@@ -2,9 +2,7 @@
 
 I'm Hu Rui, a Java developer and a college student. Nice to meet you :)
 
-Currently working on:
-
-[![ArchiveDAG Card](https://github-readme-stats.vercel.app/api/pin/?username=hurui200320&repo=ArchiveDAG&show_owner=true)](https://github.com/hurui200320/ArchiveDAG)
+Graduated in 2022, currently is unemployed. I mainly work on backend with Kotlin and Java. If you want to hire me, please send email to `job#skyblond.info` (`#` to `@`). Thanks.
 
 GitHub status:
 
@@ -14,4 +12,4 @@ GitHub status:
 
 *Note: Most used not means most skillful.*
 
-(About archived repo in my namespace) Those repos will not receive active maintenance and I will not keep working on that repo. To reduce confusion, I'll archive those repo.
+(About archived repo in my namespace) Those repos will not receive active maintenance and I will not keep working on that repo. To reduce confusion, I'll archive those repos.
