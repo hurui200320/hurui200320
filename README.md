@@ -2,7 +2,7 @@
 
 I'm Hu Rui, a Java developer and a college student. Nice to meet you :)
 
-Graduated in 2022, currently is unemployed. I mainly work on backend with Kotlin and Java. If you want to hire me, please send email to `job#skyblond.info` (`#` to `@`). Thanks.
+Graduated in 2022, currently is ***unemployed***. I mainly work on backend with Kotlin and Java. If you want to hire me, please send email to `job#skyblond.info` (`#` to `@`). Thanks.
 
 GitHub status:
 
