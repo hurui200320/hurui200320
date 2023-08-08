@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Hu Rui, a Java developer and a college student. Nice to meet you :)
+I'm Hu Rui, a Kotlin and Java developer. Nice to meet you :)
 
-Graduated in 2022, currently is ***unemployed***. I mainly work on backend with Kotlin and Java. If you want to hire me, please send email to `job#skyblond.info` (`#` to `@`). Thanks.
+Graduated in 2022, currently is ***unemployed***. I mainly work on the backend with Kotlin and Java. If you want to hire me, please send an email to `job#skyblond.info` (`#` to `@`). Thanks.
 
 GitHub status:
 
@@ -10,6 +10,4 @@ GitHub status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurui200320&hide=VHDL,coq,stata,HTML)
 
-*Note: Most used not means most skillful.*
-
-(About archived repo in my namespace) Those repos will not receive active maintenance and I will not keep working on that repo. To reduce confusion, I'll archive those repos.
+(About archived repo in my namespace) Those repos will not receive active maintenance, and I will not keep working on that repo. To reduce confusion, I'll archive those repos. In case you need more info or want to discuss those repos, feel free to open an issue here.
