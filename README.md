@@ -2,7 +2,7 @@
 
 I'm Hu Rui, a Kotlin and Java developer. Nice to meet you :)
 
-Graduated in 2022, currently is ***unemployed***. I mainly work on the backend with Kotlin and Java. If you want to hire me, please send an email to `job#skyblond.info` (`#` to `@`). Thanks.
+Graduated in 2022. Now proudly working for [CleverThis](https://cleverthis.com).
 
 GitHub status:
 
